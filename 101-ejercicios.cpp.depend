@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1773932343 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<vector>
+	"ejercicios.h"
+
+1773932583 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#2.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1773932449 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#3.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1773932427 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#4.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1773932427 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#5.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1773932427 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#7.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1773932427 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#8.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1773933539 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#9.cpp
+	<iostream>
+	<vector>
+
+1773932427 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#1.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1773932176 c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\ejercicios.h
+
