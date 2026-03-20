@@ -12,13 +12,17 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include<bits/stdc++.h>
 
 using namespace std;
 
 void ejercicio8 (){
 
-    string word="Pene Pene escroto PENE, full de tiempo escroto tiempo";
+    string word="Hola mi nombre es frailejon";
     vector <string> counter;
+
+    transform(word.begin(),word.end(),word.begin(), ::tolower);
+
     string temp;
 
     for (int i=0; i<word.length(); i++){

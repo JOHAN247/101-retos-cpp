@@ -32,6 +32,31 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="#1.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#2.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#3.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#4.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#5.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#7.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#8.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="#9.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ejercicios.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

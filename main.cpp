@@ -10,7 +10,7 @@ using namespace std;
 
 int main(){
 
-    ejercicio9();
+    ejercicio10();
 
     return 0;
 }

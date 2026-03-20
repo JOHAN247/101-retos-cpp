@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1773932343 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\main.cpp
+1774033399 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\main.cpp
 	<iostream>
 	<bits/stdc++.h>
 	<string>
@@ -31,10 +31,11 @@
 	<bits/stdc++.h>
 	<string>
 
-1773932427 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#8.cpp
+1774033380 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#8.cpp
 	<iostream>
 	<vector>
 	<string>
+	<bits/stdc++.h>
 
 1773933539 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#9.cpp
 	<iostream>
@@ -45,5 +46,11 @@
 	<bits/stdc++.h>
 	<string>
 
-1773932176 c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\ejercicios.h
+1774024166 c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\ejercicios.h
+
+1774032817 source:c:\users\johit\onedrive\desktop\projects\101-ejercicios.cpp\#10.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
 
